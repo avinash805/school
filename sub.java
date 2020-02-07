@@ -5,6 +5,5 @@ public class sub
 		int a=10;
 		int b=20;
 		int c=b-a;
-		System.out.priintln(c)
-	}
-}
+		System.out.priintln(c);
+	}}
